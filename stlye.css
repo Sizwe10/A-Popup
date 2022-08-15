@@ -43,3 +43,13 @@
                 border-radius: 50%;
                 box-shadow: 0 2px 5px rgb(0, 0, 0, 0.2);
 }
+
+.popup h2 {
+                font-size: 38px;
+                font-weight: 500;
+                margin: 30px 0 10px;
+}
+
+.popup button {
+                width: 100%;
+}
